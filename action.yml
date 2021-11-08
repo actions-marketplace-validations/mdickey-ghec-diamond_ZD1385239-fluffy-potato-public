@@ -1,0 +1,7 @@
+name: 'fluffy-potato-public-action`
+description: 'Testing actions workflows'
+author: '@michaelfdickey'
+branding:
+  icon: 'paperclip'
+  color: 'white'
+ 
